@@ -1,4 +1,4 @@
-#include <qmainwindow.h>
+﻿#include <qmainwindow.h>
 #include <qcombobox.h>
 
 class ComboBox : public QMainWindow

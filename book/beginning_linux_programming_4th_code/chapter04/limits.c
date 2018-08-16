@@ -1,4 +1,4 @@
-//  1  Include the header files for all the functions we're going to be using in this program.
+﻿//  1  Include the header files for all the functions we're going to be using in this program.
 
 #include <sys/types.h>
 #include <sys/resource.h>

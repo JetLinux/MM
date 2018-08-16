@@ -1,4 +1,4 @@
-/*  First, the initial code section. The base window display is initialized with some text.  */
+﻿/*  First, the initial code section. The base window display is initialized with some text.  */
 
 #include <unistd.h>
 #include <stdlib.h>

@@ -1,4 +1,4 @@
-#include "KDEMenu.h"
+﻿#include "KDEMenu.h"
 
 #include <kde/kapp.h>
 #include <kde/kaction.h>

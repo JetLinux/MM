@@ -1,4 +1,4 @@
-#include "ListView.moc"
+﻿#include "ListView.moc"
 
 ListView::ListView(QWidget *parent, const char *name) : QMainWindow(parent, name)
 {

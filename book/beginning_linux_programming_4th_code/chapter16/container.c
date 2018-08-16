@@ -1,4 +1,4 @@
-#include <gtk/gtk.h>
+﻿#include <gtk/gtk.h>
 
 void closeApp ( GtkWidget *window, gpointer data)
 {

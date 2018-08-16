@@ -1,4 +1,4 @@
-/*  In alarm.c, the first function, ding, simulates an alarm clock.  */
+﻿/*  In alarm.c, the first function, ding, simulates an alarm clock.  */
 
 #include <signal.h>
 #include <stdio.h>

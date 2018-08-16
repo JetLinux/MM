@@ -1,4 +1,4 @@
-// Let's start with the header files, a #define and the check that the correct number
+﻿// Let's start with the header files, a #define and the check that the correct number
 // of command-line arguments have been supplied.
 
 #include <unistd.h>

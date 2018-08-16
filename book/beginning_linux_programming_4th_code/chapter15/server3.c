@@ -1,4 +1,4 @@
-/*  Make the necessary includes and set up the variables.  */
+﻿/*  Make the necessary includes and set up the variables.  */
 
 #include <sys/types.h>
 #include <sys/socket.h>

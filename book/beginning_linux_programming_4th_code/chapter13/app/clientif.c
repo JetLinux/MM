@@ -1,4 +1,4 @@
-/* The file starts with #include files and constants. */
+﻿/* The file starts with #include files and constants. */
 
 #define _POSIX_SOURCE
 

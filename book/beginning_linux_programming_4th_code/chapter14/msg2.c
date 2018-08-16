@@ -1,4 +1,4 @@
-/* The sender program is very similar to msg1.c. In the main set up, delete the
+﻿/* The sender program is very similar to msg1.c. In the main set up, delete the
  msg_to_receive declaration and replace it with buffer[BUFSIZ], remove the message
  queue delete and make the following changes to the running loop.
  We now have a call to msgsnd to send the entered text to the queue. */

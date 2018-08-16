@@ -1,4 +1,4 @@
-/* A simple program to show basic use of the curses library */
+﻿/* A simple program to show basic use of the curses library */
 
 #include <unistd.h>
 #include <stdlib.h>

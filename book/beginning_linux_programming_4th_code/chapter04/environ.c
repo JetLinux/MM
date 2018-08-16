@@ -1,4 +1,4 @@
-//  1  The first few lines after the declaration of main ensure that the program, environ.c, has been called correctly.
+﻿//  1  The first few lines after the declaration of main ensure that the program, environ.c, has been called correctly.
 
 #include <stdlib.h>
 #include <stdio.h>

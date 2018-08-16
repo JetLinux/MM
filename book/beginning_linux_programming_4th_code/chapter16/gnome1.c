@@ -1,4 +1,4 @@
-#include <gnome.h>
+﻿#include <gnome.h>
 
 int main (int argc, char *argv[])
 {

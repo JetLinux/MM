@@ -1,4 +1,4 @@
-/* The second program is the producer and allows us to enter data for consumers.
+﻿/* The second program is the producer and allows us to enter data for consumers.
  It's very similar to shm1.c and looks like this. */
 
 #include <unistd.h>

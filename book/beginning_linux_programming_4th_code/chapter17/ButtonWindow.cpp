@@ -1,4 +1,4 @@
-
+﻿
 #include "ButtonWindow.moc"
 #include <qpushbutton.h>
 #include <qapplication.h>

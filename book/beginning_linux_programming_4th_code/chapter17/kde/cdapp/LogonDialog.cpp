@@ -1,4 +1,4 @@
-#include "LogonDialog.h"
+﻿#include "LogonDialog.h"
 #include "app_mysql.h"
 
 #include <qpushbutton.h>

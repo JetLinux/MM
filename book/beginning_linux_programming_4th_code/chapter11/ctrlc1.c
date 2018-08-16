@@ -1,4 +1,4 @@
-/*  We'll start by writing the function which reacts to the signal
+﻿/*  We'll start by writing the function which reacts to the signal
     which is passed in the parameter sig.
     This is the function we will arrange to be called when a signal occurs.
     We print a message, then reset the signal handling for SIGINT

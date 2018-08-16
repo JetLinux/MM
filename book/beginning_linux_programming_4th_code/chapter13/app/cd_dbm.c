@@ -1,4 +1,4 @@
-/*
+﻿/*
    This file provides the functions for accessing the CD database.
  */
 

@@ -1,4 +1,4 @@
-/*  Begin as usual with the includes and declarations
+﻿/*  Begin as usual with the includes and declarations
     and then initialize inputs to handle input from the keyboard.  */
 
 #include <sys/types.h>

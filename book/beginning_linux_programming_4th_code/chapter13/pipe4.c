@@ -1,4 +1,4 @@
-// The 'consumer' program, pipe4.c, that reads the data is much simpler.
+﻿// The 'consumer' program, pipe4.c, that reads the data is much simpler.
 
 #include <unistd.h>
 #include <stdlib.h>

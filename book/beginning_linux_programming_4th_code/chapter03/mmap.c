@@ -1,4 +1,4 @@
-/*  We start by defining a RECORD structure
+﻿/*  We start by defining a RECORD structure
     and then create NRECORDS versions each recording their number.
     These are appended to the file records.dat.  */
 

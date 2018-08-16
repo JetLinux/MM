@@ -1,4 +1,4 @@
-/* 2.c */
+﻿/* 2.c */
 #include "a.h"
 #include "b.h"
 

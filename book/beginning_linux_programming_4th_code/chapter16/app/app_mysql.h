@@ -1,4 +1,4 @@
-
+﻿
 
 /* A simplistic structure to represent the current CD,
   excluding the track information */

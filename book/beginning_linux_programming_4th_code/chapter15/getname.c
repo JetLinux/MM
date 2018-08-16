@@ -1,4 +1,4 @@
-/*  As usual, make the appropriate includes and declare the variables.  */
+﻿/*  As usual, make the appropriate includes and declare the variables.  */
 
 #include <netinet/in.h>
 #include <arpa/inet.h>

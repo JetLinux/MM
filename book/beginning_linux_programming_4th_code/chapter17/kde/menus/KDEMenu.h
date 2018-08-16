@@ -1,4 +1,4 @@
-#include <kde/kmainwindow.h>
+﻿#include <kde/kmainwindow.h>
 
 
 class KDEMenu : public KMainWindow

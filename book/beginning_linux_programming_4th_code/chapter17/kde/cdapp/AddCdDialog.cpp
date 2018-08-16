@@ -1,4 +1,4 @@
-#include "AddCdDialog.h"
+﻿#include "AddCdDialog.h"
 #include "app_mysql.h"
 
 #include <qlayout.h>

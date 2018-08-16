@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <term.h>
 #include <curses.h>
 #include <stdlib.h>

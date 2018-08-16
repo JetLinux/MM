@@ -1,4 +1,4 @@
-#include <qmainwindow.h>
+﻿#include <qmainwindow.h>
 #include <qlineedit.h>
 #include <qstring.h>
 

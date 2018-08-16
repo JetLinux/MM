@@ -1,4 +1,4 @@
-#include <kde/kdialogbase.h>
+﻿#include <kde/kdialogbase.h>
 #include <qlineedit.h>
 
 class AddCdDialog : public KDialogBase

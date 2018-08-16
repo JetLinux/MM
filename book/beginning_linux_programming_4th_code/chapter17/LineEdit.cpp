@@ -1,4 +1,4 @@
-#include "LineEdit.moc"
+﻿#include "LineEdit.moc"
 #include <qpushbutton.h>
 #include <qapplication.h>
 #include <qlabel.h>

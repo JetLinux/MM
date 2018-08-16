@@ -1,4 +1,4 @@
-/*  We start with the appropriate headers and then a function, printdir,
+﻿/*  We start with the appropriate headers and then a function, printdir,
     which prints out the current directory.
     It will recurse for subdirectories, using the depth parameter is used for indentation.  */
 

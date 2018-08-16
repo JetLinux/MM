@@ -1,4 +1,4 @@
-/*  This code, useupper.c, accepts a file name as an argument
+﻿/*  This code, useupper.c, accepts a file name as an argument
     and will respond with an error if called incorrectly.  */
 
 #include <unistd.h>

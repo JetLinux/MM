@@ -1,4 +1,4 @@
-/* A common header file to describe the shared memory we wish to pass about. */
+﻿/* A common header file to describe the shared memory we wish to pass about. */
 
 #define TEXT_SZ 2048
 

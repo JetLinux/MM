@@ -1,4 +1,4 @@
-/*   1  */  typedef struct
+﻿/*   1  */  typedef struct
 {
     /*   2  */      char data[4096];
     /*   3  */      int key;

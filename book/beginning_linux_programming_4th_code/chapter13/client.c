@@ -1,4 +1,4 @@
-// Here's the client, client.c. The first part of this program opens the server FIFO,
+﻿// Here's the client, client.c. The first part of this program opens the server FIFO,
 // if it already exists, as a file. It then gets its own process ID, which forms some
 // of the data that will be sent to the server. The client FIFO is created, ready for
 // the next section.

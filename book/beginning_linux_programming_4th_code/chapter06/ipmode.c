@@ -1,4 +1,4 @@
-/*  First, we set up the program and the initial curses calls.  */
+﻿/*  First, we set up the program and the initial curses calls.  */
 
 #include <unistd.h>
 #include <stdlib.h>

@@ -1,4 +1,4 @@
-/* The catalog table */
+﻿/* The catalog table */
 
 #define CAT_CAT_LEN       30
 #define CAT_TITLE_LEN     70

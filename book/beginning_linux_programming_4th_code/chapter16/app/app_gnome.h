@@ -1,4 +1,4 @@
-
+﻿
 #include <gnome.h>
 #include "app_mysql.h"
 

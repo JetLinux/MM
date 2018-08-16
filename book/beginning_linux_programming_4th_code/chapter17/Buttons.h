@@ -1,4 +1,4 @@
-#include <qmainwindow.h>
+﻿#include <qmainwindow.h>
 #include <qcheckbox.h>
 #include <qbutton.h>
 #include <qradiobutton.h>

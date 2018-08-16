@@ -1,4 +1,4 @@
-/* CD Application graphical user interface using Gnome/Gtk+ */
+﻿/* CD Application graphical user interface using Gnome/Gtk+ */
 #include <stdio.h>
 #include <stdlib.h>
 

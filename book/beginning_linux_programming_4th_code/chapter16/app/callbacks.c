@@ -1,4 +1,4 @@
-/* This file contains callback functions and some helper functions
+﻿/* This file contains callback functions and some helper functions
    for the Gnome/Gtk+ CD application */
 #include "app_gnome.h"
 

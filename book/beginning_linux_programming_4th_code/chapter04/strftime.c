@@ -1,4 +1,4 @@
-#define _XOPEN_SOURCE /* glibc2 needs this for strptime */
+﻿#define _XOPEN_SOURCE /* glibc2 needs this for strptime */
 #include <time.h>
 #include <stdio.h>
 #include <stdlib.h>

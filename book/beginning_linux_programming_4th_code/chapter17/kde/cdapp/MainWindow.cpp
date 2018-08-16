@@ -1,4 +1,4 @@
-#include "MainWindow.h"
+﻿#include "MainWindow.h"
 #include "AddCdDialog.h"
 #include "app_mysql.h"
 

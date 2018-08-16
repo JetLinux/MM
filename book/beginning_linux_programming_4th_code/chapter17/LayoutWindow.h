@@ -1,4 +1,4 @@
-#include <qmainwindow.h>
+﻿#include <qmainwindow.h>
 
 class LayoutWindow : public QMainWindow
 {

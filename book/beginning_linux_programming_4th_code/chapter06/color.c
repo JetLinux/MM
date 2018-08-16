@@ -1,4 +1,4 @@
-/*  First off, we check whether the program's display terminal supports color.
+﻿/*  First off, we check whether the program's display terminal supports color.
     If it does, we start the color display.  */
 
 #include <unistd.h>

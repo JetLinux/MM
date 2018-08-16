@@ -1,4 +1,4 @@
-/* Some global variables, a prototype for process_command and a signal catcher to ensure a clean exit. */
+﻿/* Some global variables, a prototype for process_command and a signal catcher to ensure a clean exit. */
 
 #include <unistd.h>
 #include <stdlib.h>

@@ -1,4 +1,4 @@
-/* Functions to create the user interface for the
+﻿/* Functions to create the user interface for the
    Gnome/gtk+ CD application */
 
 #include "app_gnome.h"

@@ -1,4 +1,4 @@
-/* main.c */
+﻿/* main.c */
 #include <stdlib.h>
 #include "a.h"
 

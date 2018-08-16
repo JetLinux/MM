@@ -1,4 +1,4 @@
-/* We now move on to the user interface. This gives us a (relatively) simple program with
+﻿/* We now move on to the user interface. This gives us a (relatively) simple program with
     which to access our database functions, which we'll implement in a separate file.
     We start, as usual, with some header files.    */
 

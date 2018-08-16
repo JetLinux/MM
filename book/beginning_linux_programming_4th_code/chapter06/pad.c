@@ -1,4 +1,4 @@
-/*  At the start of this program, we initialize the pad structure
+﻿/*  At the start of this program, we initialize the pad structure
     and then create a pad, which returns a pointer to that pad.
     We add characters to fill the pad structure
     (which is 50 characters wider and longer than the terminal display.  */

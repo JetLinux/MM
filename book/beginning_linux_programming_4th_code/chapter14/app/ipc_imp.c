@@ -1,4 +1,4 @@
-/* First, we include the appropriate headers, declare some message queue keys and define#
+﻿/* First, we include the appropriate headers, declare some message queue keys and define#
  a structure to hold our message data. */
 
 #include "cd_data.h"

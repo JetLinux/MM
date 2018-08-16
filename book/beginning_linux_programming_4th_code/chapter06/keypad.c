@@ -1,4 +1,4 @@
-/*  Having initialized the program and the curses library, we set the Keypad mode TRUE.  */
+﻿/*  Having initialized the program and the curses library, we set the Keypad mode TRUE.  */
 
 #include <unistd.h>
 #include <stdlib.h>

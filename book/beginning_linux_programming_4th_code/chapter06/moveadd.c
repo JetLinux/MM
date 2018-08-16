@@ -1,4 +1,4 @@
-/*  We include the following header files,
+﻿/*  We include the following header files,
     define some character arrays and a pointer to those arrays
     and then initialize the curses structures.  */
 

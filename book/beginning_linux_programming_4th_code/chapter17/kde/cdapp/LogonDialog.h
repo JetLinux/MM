@@ -1,4 +1,4 @@
-#include <qdialog.h>
+﻿#include <qdialog.h>
 #include <qlineedit.h>
 
 class LogonDialog : public QDialog

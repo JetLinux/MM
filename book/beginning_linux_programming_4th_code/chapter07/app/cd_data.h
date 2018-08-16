@@ -1,4 +1,4 @@
-/*
+﻿/*
   This is the data stucture definition for the CD database.
 
   It defines structures and sizes for the two tables that comprise

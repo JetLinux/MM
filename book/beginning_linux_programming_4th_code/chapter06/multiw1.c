@@ -1,4 +1,4 @@
-/*  As usual let's get our definitions sorted first.  */
+﻿/*  As usual let's get our definitions sorted first.  */
 
 #include <unistd.h>
 #include <stdlib.h>

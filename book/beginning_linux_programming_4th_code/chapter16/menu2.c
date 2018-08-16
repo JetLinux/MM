@@ -1,4 +1,4 @@
-#include <gnome.h>
+﻿#include <gnome.h>
 
 void closeApp ( GtkWidget *window, gpointer data)
 {

@@ -1,4 +1,4 @@
-#include <qapplication.h>
+﻿#include <qapplication.h>
 #include <qlabel.h>
 #include <qlayout.h>
 
